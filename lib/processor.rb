@@ -22,7 +22,7 @@ class Processor
       csv << ['zipcode', 'rate']
 
       slcsp_rates.each do |zipcode, rate|
-        csv << [zipcode, rate] # Write each row of data
+        csv << [zipcode, rate]
       end
     end
 
