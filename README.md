@@ -1,4 +1,6 @@
-# Getting Started
+# https://homework.adhoc.team/slcsp/ Calculate the second lowest cost silver plan
+
+## Getting Started
 
 To run the code with Ruby installed:
 
